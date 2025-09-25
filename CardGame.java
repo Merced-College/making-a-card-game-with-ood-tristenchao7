@@ -1,4 +1,8 @@
-package cardGame;
+// Tristen Chao
+//Teammates: Dylan and Shane
+// 9/23/2025
+//Making a Card Game with OOD
+
 
 import java.io.File;
 import java.io.FileNotFoundException;
